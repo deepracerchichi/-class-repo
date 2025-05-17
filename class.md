@@ -1,4 +1,2 @@
-Kristian	
-Germany	
-Meta Front-End course
-
+First Name: Chinyere
+Certification: Meta Front-End Developer
